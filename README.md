@@ -6,7 +6,7 @@ A Recommender System is created using Surprise to recommend recipes to users.
 - Singular Value Decomposition (SVD)
 - Co-Clustering 
 
-## Libaries Used
+## Libraries Used
 - Pandas
 - Surprise
 - Time

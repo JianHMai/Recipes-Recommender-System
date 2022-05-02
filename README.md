@@ -1,5 +1,5 @@
 # Recipes_Recommender_System
-A Recommender System is created using Surprise to recommender recipes to users. 
+A Recommender System is created using Surprise to recommend recipes to users. 
 
 ## Algorithms Used
 - kNN with Means

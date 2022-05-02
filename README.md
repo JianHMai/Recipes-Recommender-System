@@ -1,4 +1,4 @@
-# Recipes_Recommender_System
+# Recipes Recommender System
 A Recommender System is created using Surprise to recommend recipes to users. 
 
 ## Algorithms Used
@@ -14,5 +14,6 @@ A Recommender System is created using Surprise to recommend recipes to users.
 - NLTK
 - Sklearn
 
-Original Dataset retrieve from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=PP_recipes.csv
-Dataset is located at: https://drive.google.com/file/d/1A5CJNsfK2Nuc0x2CNyAzMGKP_CWOTO9v
+Original Dataset retrieved from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=PP_recipes.csv
+<br/>
+Cleaned Dataset is located at: https://drive.google.com/file/d/1A5CJNsfK2Nuc0x2CNyAzMGKP_CWOTO9v

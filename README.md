@@ -14,4 +14,5 @@ A Recommender System is created using Surprise to recommend recipes to users.
 - NLTK
 - Sklearn
 
-Dataset is located at: https://drive.google.com/file/d/1A5CJNsfK2Nuc0x2CNyAzMGKP_CWOTO9v/view?usp=sharing
+Original Dataset retrieve from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=PP_recipes.csv
+Dataset is located at: https://drive.google.com/file/d/1A5CJNsfK2Nuc0x2CNyAzMGKP_CWOTO9v
